@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Emahesa
-- 👀 I’m interested in web developer and web marketing
-- 🌱 I’m currently learning nginx & AI LLM
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Builder + Storyteller
+🔧 Nginx & Directus tinkerer | Server tweaker | AI explorer
+📚 Creator of ENTROPI — where history meets chaos theory
+🌱 Building arcinate.shop & arcinate.store from scratch
+⚡ Tech + Art = Vision
 
 <!---
 Emahesa/Emahesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
